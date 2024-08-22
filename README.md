@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lukil33
-- 👀 I’m interested in things
-- 🌱 I’m currently learning how to breathe
-- 💞️ I’m looking to collaborate on something
+- 👀 I’m interested in: things
+- 🌱 I’m currently learning: how to breathe
+- 💞️ I’m looking to collaborate on: something
 - 📫 How to reach me: with your hands
 - 😄 Pronouns: boh
 - ⚡ Fun fact: ...
